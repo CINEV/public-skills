@@ -1,6 +1,6 @@
 ---
 name: prototype-deployer
-description: Use when asked to add or update CINEV/prototype-deployer based deployment in another repository. This is a bootstrap skill: it should first locate and read docs/ai from the CINEV/prototype-deployer repository, then use those docs as the source of truth before editing deploy.yaml, workflows, or Dockerfiles.
+description: "Use when asked to add or update CINEV/prototype-deployer based deployment in another repository. This is a bootstrap skill: it should first locate and read docs/ai from the CINEV/prototype-deployer repository, then use those docs as the source of truth before editing deploy.yaml, workflows, or Dockerfiles."
 ---
 
 # Prototype Deployer Bootstrap
